@@ -1,8 +1,9 @@
-🚀 Aspiring Data Analyst | Working in Accenture as a Data Engineering and Management Analystwith 2.5+ Years Experience
-
+🚀 Aspiring Data Analyst | Working in Accenture as a Data Engineering and Management Analyst with 2.5+ Years Experience
 
 🔍 Passionate about Data Analytics, SQL, and Data Visualization
+
 📊 Learning Python, Pandas, NumPy & Data Science
+
 🛠️ Exploring real-world projects & sharing my journey
 
 📢 Let's connect and grow together!
